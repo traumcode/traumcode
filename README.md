@@ -1,4 +1,6 @@
 <h1 align="center">Hello World🌎, I'm traumkode</h1>
+
+
 ### A Full Stack Developer with a passion for creating innovative solutions.
 
 ⤷ Always curious to uncover what lies beyond the surface and bring my wildest ideas to life. I'm a stickler for details, so you can trust that my code is as clean as a freshly laundered shirt. My projects may be simple, but they're always packed with thoughtful interactions and killer design.
